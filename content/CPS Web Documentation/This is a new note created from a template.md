@@ -1,5 +1,5 @@
 ---
-title: "This is a new note created from a template"
+title: "A starting point"
 enableToc: false
 ---
 # So this is pretty cool stuff
@@ -9,4 +9,4 @@ enableToc: false
 - list item 3
 - list item 4
 
-Here is a link [https://cbs.ca]
+[CBC web site](https://cbs.ca)
