@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web site documentation! on </title>
-    <link>http://localhost:1313/CPS-Web-Documentation/</link>
+    <link>https://docs.cps.ca/CPS-Web-Documentation/</link>
     <description>Recent content in Web site documentation! on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/CPS-Web-Documentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.cps.ca/CPS-Web-Documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>{{title}}</title>
-      <link>http://localhost:1313/CPS-Web-Documentation/templates/Basic/</link>
+      <link>https://docs.cps.ca/CPS-Web-Documentation/templates/Basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/CPS-Web-Documentation/templates/Basic/</guid>
+      <guid>https://docs.cps.ca/CPS-Web-Documentation/templates/Basic/</guid>
       <description></description>
     </item>
     <item>
       <title>A starting point</title>
-      <link>http://localhost:1313/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</link>
+      <link>https://docs.cps.ca/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</guid>
+      <guid>https://docs.cps.ca/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</guid>
       <description>So this is pretty cool stuff # list item 1 list item 2 list item 3 list item 4 CBC web site</description>
     </item>
   </channel>
