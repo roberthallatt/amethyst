@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amethyst.bencuan.me/CPS-Web-Documentation/templates/Basic/</loc>
+    <loc>https://docs.cps.ca/CPS-Web-Documentation/templates/Basic/</loc>
+    <lastmod>2024-03-14T12:12:39-04:00</lastmod>
   </url><url>
-    <loc>https://amethyst.bencuan.me/</loc>
+    <loc>https://docs.cps.ca/</loc>
     <lastmod>2023-01-05T21:05:36+00:00</lastmod>
   </url><url>
-    <loc>https://amethyst.bencuan.me/categories/</loc>
+    <loc>https://docs.cps.ca/categories/</loc>
   </url><url>
-    <loc>https://amethyst.bencuan.me/tags/</loc>
+    <loc>https://docs.cps.ca/tags/</loc>
   </url><url>
-    <loc>https://amethyst.bencuan.me/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</loc>
+    <loc>https://docs.cps.ca/CPS-Web-Documentation/This-is-a-new-note-created-from-a-template/</loc>
+    <lastmod>2024-03-14T12:12:39-04:00</lastmod>
   </url><url>
-    <loc>https://amethyst.bencuan.me/CPS-Web-Documentation/</loc>
+    <loc>https://docs.cps.ca/CPS-Web-Documentation/</loc>
+    <lastmod>2024-03-14T12:12:39-04:00</lastmod>
   </url>
 </urlset>

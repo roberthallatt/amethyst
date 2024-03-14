@@ -1,6 +1,6 @@
 {
-  "name": "📓 Amethyst",
-  "short_name": "📓 Amethyst",
+  "name": "📓 CPS web documentation",
+  "short_name": "📓 CPS web documentation",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
